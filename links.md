@@ -4,18 +4,13 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [MAIN OS LINK](https://os.vlsm.org/)<br>
+Link utama matkul Operating System<br>
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [LINUX BASH TUTORIAL](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)<br>
+Learn the Linux command line. Write shell scripts.<br>
+Are you Curious about Linux, but not sure where to start ? Start here: “Linux Command Line Tutorial For Beginners" will teach you everything you need to know about Linux Command Line in easy-to-understand language.<br>
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Operating System 101 Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
+Playlist Neso Academy about operating systems, etc
 
