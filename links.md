@@ -14,3 +14,5 @@ Are you Curious about Linux, but not sure where to start ? Start here: “Linux 
 3. [Operating System 101 Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 Playlist Neso Academy about operating systems, etc
 
+4. [C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+Youtube about c programming tutorial
