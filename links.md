@@ -16,3 +16,17 @@ Playlist Neso Academy about operating systems, etc
 
 4. [C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
 Youtube about c programming tutorial
+
+5. [Github Tutorial](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)<br>
+Github tutorial
+
+6. [Command Prompt Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)<br>
+Tables of commands in command prompt
+
+[CHEAT SHEETS]
+
+1. [C Cheat Sheet](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf)<br>
+Cheat sheet about C Programming Language
+
+2. [Vi Cheat Sheet](http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf)<br>
+Cheat sheet about Vi

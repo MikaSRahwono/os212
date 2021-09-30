@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (C) 2020-2021 Mika Suryofakhri Rahwono
+# Copyright (C) 2020-2021 Cicak bin Kadal
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
