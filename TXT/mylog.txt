@@ -29,5 +29,7 @@ ZCZC W04 30 L15 Assignment #05
 ZCZC W04 20 L16 Assignment #06
 ZCZC W04 10 L17 Assignment #07
 ZCZC W04 30 L03 Assignment #03
+ZCZC W03 130 L02 ZOOM meetings related
+ZCZC W04 130 L02 ZOOM meetings related
 
 
