@@ -20,8 +20,17 @@ Youtube about c programming tutorial
 5. [Github Tutorial](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)<br>
 Github tutorial
 
-6. [Command Prompt Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)<br>
-Tables of commands in command prompt
+6. [How to Use Virtual Box](https://www.youtube.com/watch?v=VZJ6KZUc25M)<br>
+How to Use Virtual Box
+
+7. [Big Endian and Little Endian](https://www.youtube.com/watch?v=9Rgnl4o0Vv8)<br>
+Big Endian and Little Endian Explanation
+
+[Command Lists]
+1. [Linux Command Line: Bash + utilities](https://ss64.com/bash/)<br>
+
+2. [Command Prompt Commands](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)<br>
+
 
 [CHEAT SHEETS]
 
