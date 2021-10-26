@@ -26,6 +26,16 @@ How to Use Virtual Box
 7. [Big Endian and Little Endian](https://www.youtube.com/watch?v=9Rgnl4o0Vv8)<br>
 Big Endian and Little Endian Explanation
 
+8. [Cyber Security Learning](https://youtu.be/xl2Xx5YOKcI)
+Learn about cyber security and penetration testing
+
+9. [All you need to know about state diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/about-state-diagrams/)
+ Learn about state diagrams, key concepts, etc.
+
+10. [Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
+Paper lecture about processes, operation on processes, state process etc.
+
+
 [Command Lists]
 1. [Linux Command Line: Bash + utilities](https://ss64.com/bash/)<br>
 
