@@ -35,6 +35,14 @@ Learn about cyber security and penetration testing
 10. [Processes in Operating System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
 Paper lecture about processes, operation on processes, state process etc.
 
+11. [About Virtual Memory](http://www.cs.iit.edu/~virgil/cs470/Book/chapter10.pdf)
+Lecture Paper about Virtual Memory
+
+12. [About Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)
+Web article about critical section problem
+
+13. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)
+Web article about Semaphores
 
 [Command Lists]
 1. [Linux Command Line: Bash + utilities](https://ss64.com/bash/)<br>
