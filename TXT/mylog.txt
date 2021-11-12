@@ -62,6 +62,16 @@ ZCZC W07 15 L17 Assignment #07
 ZCZC W07 130 L02 ZOOM meetings related
 ZCZC W07 20 L18 Assignment #08
 ZCZC W07 20 L64 Discuss about previous OS problems
+ZCZC W08 10 L11 Assignment #01 Reading OSC10
+ZCZC W08 15 L12 Assignment #02 Trying demos
+ZCZC W08 20 L13 Assignment #03 Trying previous problems
+ZCZC W08 45 L06 References/Books/Documents/GSGS related about installing Liux and LFS
+ZCZC W08 100 L14 Assignment #04
+ZCZC W08 240 L15 Assignment #05 installing linux lib
+ZCZC W08 30 L16 Assignment #06 Updating my links
+ZCZC W08 20 L18 Assignment #08 review peer links
+ZCZC W08 10 L19 Assignment #09 update mylog
+
 
 
 

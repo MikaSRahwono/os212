@@ -44,6 +44,15 @@ Web article about critical section problem
 13. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)
 Web article about Semaphores
 
+14. [Creating Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/index.html)
+A web for creating linux installing LFS etc
+
+15. [Youtube -- Installing Linux on Apple IMac](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)
+Although this series is specifically about installing on the iMac hardware, <br>
+the process of building LFS 11.0 will be the same regardless of the hardware <br>
+it's installed on. It's just the configuration for the booting that will relate <br>
+to the iMac in this series
+
 [Command Lists]
 1. [Linux Command Line: Bash + utilities](https://ss64.com/bash/)<br>
 
